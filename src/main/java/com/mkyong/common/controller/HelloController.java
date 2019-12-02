@@ -13,7 +13,7 @@ public class HelloController {
 	public String printWelcome(ModelMap model) {
  
 		model.addAttribute("message", "Spring Security Hello World");
-		return "Hola soy Don Jorgito 3";
+		return "Hola soy Don Jorgito 4";
  
 	}
  
